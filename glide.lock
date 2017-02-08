@@ -1,0 +1,6 @@
+hash: 02b6c81cd9e952a41e469cdcef0ec88a078423454d04b435360f0ed5fa17a28b
+updated: 2017-02-08T15:51:38.808721114+08:00
+imports:
+- name: github.com/chasex/redis-go-cluster
+  version: a424d2fb3c4ef7a6c36c40d1ef8efb8a566a41e2
+testImports: []

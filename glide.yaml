@@ -1,0 +1,4 @@
+package: github.com/frankyoceanwing/redis
+import:
+- package: github.com/chasex/redis-go-cluster
+  version: v1.0.0
